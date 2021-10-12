@@ -46,3 +46,5 @@ def morse_decoder(text):
 test = "--.. .--. -.-- - .... --- -."
 
 morse_decoder(test)
+
+test = 2
